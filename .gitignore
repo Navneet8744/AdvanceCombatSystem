@@ -72,3 +72,28 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# External Assets
+
+/Content/__ExternalActors__/Variant_Platforming
+/Content/__ExternalActors__/Variant_SideScrolling
+/Content/__ExternalActors__/Variant_Combat
+/Content/__ExternalObjects__/Variant_Platforming
+/Content/__ExternalObjects__/Variant_SideScrolling
+/Content/__ExternalObjects__/Variant_Combat
+
+/Content/Characters/Mannequins/Anims
+/Content/LevelPrototyping
+/Content/Characters
+/Content/__ExternalActors__/ThirdPerson
+/Content/ParagonCountess
+/Content/CombatSystem/Meshes
+/Content/Effects/FIRETRAILOFTHESWORD
+/Content/Fab
+/Content/Migrated
+/Content/Static/_AnimationLibrary
+/Content/Static/MM_Countess
+/Content/Static/ParagonGideon
+/Content/Effects/ParticleSystems
+/Content/__ExternalActors__/Blueprint/Player/Lvl_ThirdPerson
