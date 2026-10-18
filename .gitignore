@@ -85,15 +85,12 @@ DerivedDataCache/*
 
 /Content/Characters/Mannequins/Anims
 /Content/LevelPrototyping
+/Content/Effects
 /Content/Characters
 /Content/__ExternalActors__/ThirdPerson
 /Content/ParagonCountess
-/Content/CombatSystem/Meshes
-/Content/Effects/FIRETRAILOFTHESWORD
 /Content/Fab
 /Content/Migrated
-/Content/Static/_AnimationLibrary
-/Content/Static/MM_Countess
-/Content/Static/ParagonGideon
-/Content/Effects/ParticleSystems
-/Content/__ExternalActors__/Blueprint/Player/Lvl_ThirdPerson
+/Content/__ExternalActors__
+/Content/CombatSystem
+/Content/Static
